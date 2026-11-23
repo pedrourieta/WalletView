@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.WalletView" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/azul_institucional</item>
+        <item name="colorPrimaryDark">@color/azul_institucional</item>
+        <item name="colorAccent">@color/verde_institucional</item>
+    </style>
+</resources>
