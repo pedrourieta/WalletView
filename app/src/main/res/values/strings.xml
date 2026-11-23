@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WalletView</string>
+    <string name="titulo_resumen">Resumen de gastos del mes</string>
+    <string name="hint_concepto">Concepto del gasto</string>
+    <string name="hint_monto">Monto en pesos</string>
+    <string name="boton_agregar">Agregar gasto</string>
+    <string name="boton_pastel">Gráfica de pastel</string>
+    <string name="boton_barras">Gráfica de barras</string>
+    <string name="seleccione_categoria">Seleccione una categoría</string>
+</resources>
